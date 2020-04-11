@@ -17,6 +17,7 @@
 - (第26回画像センシングシンポジウム 発表予定)
 
 ![lab](https://user-images.githubusercontent.com/18644840/77922435-fd390c00-72db-11ea-9025-76175cc62336.jpg)
+![lab2](https://user-images.githubusercontent.com/18644840/79046554-a07b1100-7c4c-11ea-93d5-b07fd6b27b9b.png)
 
 ## プログラム説明
 #### main_template.py

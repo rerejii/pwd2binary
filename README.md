@@ -63,5 +63,3 @@
 
 ### その他
 学習データや学習後モデルについては公開できません。
-
-![lab](https://user-images.githubusercontent.com/18644840/77922435-fd390c00-72db-11ea-9025-76175cc62336.jpg)
